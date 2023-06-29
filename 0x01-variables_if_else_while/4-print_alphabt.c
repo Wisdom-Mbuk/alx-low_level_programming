@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - prog entry point
- * return: always 0 (success)
+ * main - Prog Entry point
+ * Return: always 0 (Success)
  */
 
 int main(void)
